@@ -13,7 +13,7 @@ sbt-bootstrap my-project-name
 *build.sbt*
 
 ```
-name := "scalata"
+name := "my-project-name"
 
 organization := "io.react2"
 
